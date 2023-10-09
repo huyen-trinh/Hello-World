@@ -1,4 +1,4 @@
-# :Hello-World. This is Kaylee. This is a practice round.:
+:#Hello-World. This is Kaylee. This is a practice round:
 
 ## Table of contents
 
