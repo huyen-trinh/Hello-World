@@ -37,7 +37,7 @@ Hello_World/
 - The Excel data file is listed here
 - Link from the Internet is listed here 
 - URL links to files:
-[Ride Ticket Dataset](https://www.kaggle.com/datasets/lemonkoala/ticket-to-ride))
+[Ride Ticket Dataset](https://www.kaggle.com/datasets/lemonkoala/ticket-to-ride)
 
   
 ### Additional Documentation
