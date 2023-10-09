@@ -1,6 +1,8 @@
-:#Hello-World. This is Kaylee. This is a practice round:
+<p align="center">
+<strong>Hello-World. This is Kaylee. This is for practice.<strong>
+</p>
 
-## Table of contents
+### Table of contents
 
 1. [PROJECT TITLE](#Project-Title)
 2. [DESCRIPTION](#Description)
@@ -9,15 +11,15 @@
 5. [ADDITIONAL DOCUMENTATION](#additional-documentation)
 6. [VERSIONING](#versioning)
 
-## Project Title
+### Project Title
 
 *Hello World practice repository* 
 
-## Description
+### Description
 
 I'm a new user to GitHub. This is a practice repository.
 
-## How to Run Program 
+### How to Run Program 
 
 For example, I have an original Excel data file and a code file in R, then a final presentation of results in PowerPoint. Then ==here's the order to run and understand what I did in my project.==
 ```text
@@ -30,7 +32,7 @@ Hello_World/
    
 ```
 
-## Files Used 
+### Files Used 
 
 - The Excel data file is listed here
 - Link from the Internet is listed here 
@@ -38,11 +40,11 @@ Hello_World/
 [Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
 
   
-## Additional Documentation
+### Additional Documentation
 
 No additional documentation at this time.  
 
 
-## Versioning
+### Versioning
 
 No major changes were made.
