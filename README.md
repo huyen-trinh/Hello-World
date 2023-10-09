@@ -13,7 +13,7 @@
 
 ### Project Title
 
-*Hello World practice repository* 
+Hello World practice repository.
 
 ### Description
 
@@ -21,7 +21,7 @@ I'm a new user to GitHub. This is a practice repository.
 
 ### How to Run Program 
 
-For example, I have an original Excel data file and a code file in R, then a final presentation of results in PowerPoint. Then ==here's the order to run and understand what I did in my project.==
+For example, I have an original Excel data file and a code file in R, then a final presentation of results in PowerPoint. Then ***here's the order to run and understand what I did in my project.***
 ```text
 Hello_World/
 └── 
@@ -37,14 +37,14 @@ Hello_World/
 - The Excel data file is listed here
 - Link from the Internet is listed here 
 - URL links to files:
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+[Ride Ticket Dataset](https://www.kaggle.com/datasets/lemonkoala/ticket-to-ride))
 
   
 ### Additional Documentation
 
-No additional documentation at this time.  
+*No additional documentation at this time.*
 
 
 ### Versioning
 
-No major changes were made.
+*No major changes were made.*
